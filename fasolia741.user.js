@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         Magicobeano Loader (Dynamic)
+// @name         Magicobeano Loader 
 // @namespace    http://tampermonkey.net/
 // @version      1.0
-// @description  Dynamically loads magicobeano.user.js from GitHub
+// @description  Dynamically loads magicobeano.user.js
 // @match        *://*.centurygames.com/*
 // @connect      raw.githubusercontent.com
 // @grant        GM_xmlhttpRequest
